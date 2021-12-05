@@ -10,7 +10,7 @@ paint:
     - 9501
     - rgb(255,251,171)
     - 9601
-    - rgb(205, 230, 253)
+    - rgb(193,245,255)
     - rgb(255, 0, 0)
   fill-opacity: 
     - interpolate
