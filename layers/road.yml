@@ -10,5 +10,5 @@ filter:
   - true
   - false
 paint: 
-  line-color: rgb(255,65,184)
-  line-width: 3
+  line-color: rgb(255,251,171)
+  line-width: 2
