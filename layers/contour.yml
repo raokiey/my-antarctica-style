@@ -32,8 +32,8 @@ paint:
       - 9214
       - 9221
       - 9224
-    - rgb(72, 131, 247)
-    - rgb(233,185,155)
+    - rgb(63,116,222)
+    - rgb(222,91,107)
   line-opacity: 
     - interpolate
     - - exponential
